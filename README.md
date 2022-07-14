@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Athinadesign
+- 👀 I’m interested in web & multimedia design ...
+- 🌱 I’m currently learning JavaScript ...
+- 🕸️ [Website/portfolio](https://athina.design/) ...
+
+<!---
+Athinadesign/Athinadesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
